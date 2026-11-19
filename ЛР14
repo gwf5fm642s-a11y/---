@@ -1,3 +1,227 @@
+Лабораторная работа 14
+Исследование методов работы с файловой системой (адаптация для 1с)
+Белявская Полина Павловна, 478 группа
+Вариант: 2
+
+
+
+задание 1. Создание и чтение файлов
+Создан файл `student_2.txt` с информацией о студенте, группе, варианте, дате и списком любимых книг. В конец добавлено количество записей.
+
+<img width="1362" height="677" alt="image" src="https://github.com/user-attachments/assets/4f2029c5-11d1-437d-9b9e-685e2c2e2a21" />
+
+
+
+
+
+
+<img width="824" height="562" alt="image" src="https://github.com/user-attachments/assets/b31fb88e-fca5-427e-974f-71001116d651" />
+
+
+
+
+
+
+<img width="641" height="487" alt="image" src="https://github.com/user-attachments/assets/31af514e-84e8-4f86-90dd-7ebc5805734f" />
+
+
+
+
+
+
+Задание 2. Работа с каталогами
+Создана структура папок `project_2`. Выполнено перемещение `temp`, переименование `output` в `results`, удаление `temp`. 
+*Доп. условие (четный вариант):* В каждой папке создан файл `README.md` с текущей датой.
+
+
+
+
+
+<img width="714" height="462" alt="image" src="https://github.com/user-attachments/assets/3a3b9cea-7037-4b1b-994c-40894ee381ac" />
+
+
+
+
+<img width="843" height="344" alt="image" src="https://github.com/user-attachments/assets/55540006-75ea-45c1-aff5-52f97ac081c9" />
+
+
+
+
+
+
+<img width="1004" height="607" alt="image" src="https://github.com/user-attachments/assets/d46216fd-498a-4fe7-a365-dcc02a0d4648" />
+
+
+
+
+
+
+
+
+Задание 3. Поиск и фильтрация файлов
+Программа анализирует директорию, считает папки, файлы и общий размер. Создает отчет `report_2.json`.
+*Доп. условие (варианты 1-5): Файлы размером более 10 МБ игнорируются.
+
+
+
+
+
+
+
+<img width="498" height="227" alt="image" src="https://github.com/user-attachments/assets/5acba139-0b69-4b61-9fe3-b94097ff84f8" />
+
+
+
+
+
+
+<img width="561" height="373" alt="image" src="https://github.com/user-attachments/assets/37ffe361-d3d9-4cb1-9b8f-f1058b3a8c62" />
+
+
+
+
+
+
+
+
+ Задание 4. Потоковая обработка данных
+Сгенерирован файл `data_2.txt` на 100 000 строк. Выполнена обработка: подсчитана сумма, среднее, максимум, минимум.
+*Доп. условие (варианты 1-5): Подсчитано количество четных и нечетных чисел.
+
+
+
+
+
+
+
+
+
+<img width="417" height="389" alt="image" src="https://github.com/user-attachments/assets/b4bcf97c-4c84-4a2c-80f8-987fa35d1925" />
+
+
+
+
+
+
+<img width="968" height="834" alt="image" src="https://github.com/user-attachments/assets/b987a431-d480-4600-b030-1a4c2e0307ec" />
+
+
+
+
+
+
+<img width="731" height="565" alt="image" src="https://github.com/user-attachments/assets/e1e6e800-3223-4d51-bbbc-34e22f710925" />
+
+
+
+
+
+
+
+
+
+
+
+Задание 5. Копирование и синхронизация
+Создана папка `source_2` с 20 файлами, выполнено копирование в `backup_2`. Создан отчет синхронизации.
+*Доп. условие (варианты 1-5): При копировании текстовых файлов удалены лишние пробелы (сжатие).
+
+
+
+
+
+
+
+
+
+<img width="304" height="227" alt="image" src="https://github.com/user-attachments/assets/900774d9-48a6-4f64-ade3-efd817c0b1cd" />
+
+
+
+
+
+
+
+
+
+<img width="557" height="383" alt="image" src="https://github.com/user-attachments/assets/13136501-2c73-4963-bb89-742f17877aff" />
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="553" height="547" alt="image" src="https://github.com/user-attachments/assets/b08a4328-a83a-4355-953b-d51106656b60" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="649" height="564" alt="image" src="https://github.com/user-attachments/assets/c2f4dc6a-6d49-4ce8-89d4-0c7ae7bf5523" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+интерфейс обработки
+
+
+
+
+
+
+
+
+
+<img width="749" height="505" alt="image" src="https://github.com/user-attachments/assets/5f8dc1b8-514a-45af-9500-8c544ef8ef44" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
