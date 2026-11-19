@@ -26,13 +26,24 @@
 <img width="465" height="816" alt="image" src="https://github.com/user-attachments/assets/32c4d3c2-2b1a-48c4-8a98-307ff3065dd9" />
 
 
+
+
+
 4.задание 3
 <img width="686" height="411" alt="image" src="https://github.com/user-attachments/assets/0679112a-a136-4aa4-92e5-67e65d9b3e1d" />
 
 
 
+
+
+
+
+
+
+
 5. задание 4
    <img width="552" height="649" alt="image" src="https://github.com/user-attachments/assets/ed52a8aa-8d4f-4e45-a335-a0b61e94ed34" />
+   
 
 
 
