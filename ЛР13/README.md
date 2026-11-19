@@ -22,8 +22,30 @@
 
 
 
+   <img width="891" height="591" alt="image" src="https://github.com/user-attachments/assets/e6478b46-1611-47c1-955e-05ea92e061ab" />
+
+
+
+
+
+
 3. задние 2
 <img width="465" height="816" alt="image" src="https://github.com/user-attachments/assets/32c4d3c2-2b1a-48c4-8a98-307ff3065dd9" />
+
+
+
+
+
+<img width="991" height="585" alt="image" src="https://github.com/user-attachments/assets/fb3b0c2d-58d4-40af-8a75-8badc03b4ff2" />
+
+
+
+
+
+
+
+
+
 
 
 
@@ -38,11 +60,45 @@
 
 
 
+<img width="942" height="435" alt="image" src="https://github.com/user-attachments/assets/16b085a3-d9a7-45fc-9c7a-034bd50e65a4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 5. задание 4
    <img width="552" height="649" alt="image" src="https://github.com/user-attachments/assets/ed52a8aa-8d4f-4e45-a335-a0b61e94ed34" />
+
+
+
+
+
+
+   <img width="1069" height="578" alt="image" src="https://github.com/user-attachments/assets/5b9bbd95-35e4-4ba2-9b03-174798d98028" />
+
+
+
+
+
+
+
+   
    
 
 
