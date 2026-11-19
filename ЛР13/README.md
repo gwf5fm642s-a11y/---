@@ -7,16 +7,35 @@
 В ходе работы была создана внешняя обработка в среде 1С:Предприятие с двумя кнопками, которые демонстрируют разные подходы к работе с файлами.
 
  1. Интерфейс обработки
-<img width="942" height="587" alt="image" src="https://github.com/user-attachments/assets/a2d806e8-3541-4bfa-a59f-073e3fa71123" />
-2. Имитация колбэков
-Первый подход реализован через цепочку процедур, вызывающих друг друга. Это приводит к сильной вложенности кода.
-<img width="973" height="576" alt="image" src="https://github.com/user-attachments/assets/1ac02401-e910-4e63-8af7-c140f8aecef8" />
-3. Имитация промисов
-Второй подход реализован через линейный вызов функций в одной процедуре с единым блоком обработки ошибок.
-<img width="1186" height="588" alt="image" src="https://github.com/user-attachments/assets/a59cce02-de32-421c-bdc0-695bb8f72e27" />
-Результат работы
-Обе кнопки успешно отработали. Файлы были созданы, прочитаны, а затем удалены. Сообщения об успехе выведены на экран.
-<img width="711" height="868" alt="image" src="https://github.com/user-attachments/assets/723bc95d-7261-4a21-9bfe-861d6ada9058" />
+    <img width="841" height="574" alt="image" src="https://github.com/user-attachments/assets/bc271caf-db7c-4258-88aa-8b2f57a9da71" />
+
+
+
+
+
+
+
+2. задание 1
+   <img width="1435" height="248" alt="image" src="https://github.com/user-attachments/assets/68b9226c-7cbc-46eb-8336-b264da3bc7cd" />
+
+
+
+
+
+3. задние 2
+<img width="465" height="816" alt="image" src="https://github.com/user-attachments/assets/32c4d3c2-2b1a-48c4-8a98-307ff3065dd9" />
+
+
+4.задание 3
+<img width="686" height="411" alt="image" src="https://github.com/user-attachments/assets/0679112a-a136-4aa4-92e5-67e65d9b3e1d" />
+
+
+
+5. задание 4
+   <img width="552" height="649" alt="image" src="https://github.com/user-attachments/assets/ed52a8aa-8d4f-4e45-a335-a0b61e94ed34" />
+
+
+
 
 
 
